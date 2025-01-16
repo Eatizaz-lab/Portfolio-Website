@@ -5,7 +5,7 @@
       "no-duplicate-selectors": true,
       "property-case": "lower",
       "value-keyword-case": "lower",
-      "selector-type-case": "lower",
+      "selector-type-case": "lowe
       "block-no-empty": true
     }
   }
